@@ -1,0 +1,15 @@
+.icon-100{
+    font-size:40px;
+}
+
+.bi-cloud-sun-fill::before{
+    color:orange;
+}
+
+.bi-cloud-rain-fill::before {
+    color:silver;
+}
+
+.bi-cloud-lightning-rain-fill::before{
+    color: silver;
+}
